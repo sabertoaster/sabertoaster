@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Huy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+</>;+I'm+Minh+Huy+(Call me Saber)!;" />
 </h1>
 
 
-👩🏻‍💻 An enthusiast in AI and Math
+👩🏻‍💻 An enthusiast in AI and Neuroscience
 
-🔭 I’m currently partaking at **VNU-HCM University of Science**
+🔭 I’m currently an undergraduate majored in AI at **VNU-HCM University of Science**
 
-⚡ Fun fact **I am a big fan of SIUUUU**
+🎯 My goal is to become a top tier scientist in Neuroscience (Brain-Computer Interface).
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=sabertoaster&style=for-the-badge"> </a>
 
@@ -24,7 +24,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,r" /><br>
     <img src="https://skillicons.dev/icons?i=opencv,sklearn,mysql,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,clion,pycharm" /><br>
 </div>
 <br/>
 <!--
