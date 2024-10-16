@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,r" /><br>
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,mysql,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,latex" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,clion,pycharm" /><br>
 </div>
 <br/>
