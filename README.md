@@ -3,11 +3,12 @@
 </h1>
 
 # About Me
-#### 👩🏻‍💻 An enthusiast in AI and Neuroscience
 
 #### 🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
 
 #### 🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_).
+
+#### 🎧 I'm really into Pop, Funk, Synthwave culture and always dream to be a hobbyist Drummer.
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=sabertoaster&style=for-the-badge"> </a>
 
