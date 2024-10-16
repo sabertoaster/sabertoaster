@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;</>+I'm+Minh+Huy!;You+can+call+me+Saber" />
 </h1>
 
-## About Me
+## About Me [^1]
 
 #### 🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
 
@@ -59,3 +59,4 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
+[^1]: Open to any DMs/ public discussion about tech, I'm lowkey lonely by myself.
