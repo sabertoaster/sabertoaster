@@ -3,11 +3,11 @@
 </h1>
 
 
-👩🏻‍💻 An enthusiast in AI and Neuroscience
+# 👩🏻‍💻 An enthusiast in AI and Neuroscience
 
-🔭 I’m currently an undergraduate majored in AI at **VNU-HCM University of Science**
+🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
 
-🎯 My goal is to become a top tier scientist in Neuroscience (Brain-Computer Interface).
+🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_).
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=sabertoaster&style=for-the-badge"> </a>
 
