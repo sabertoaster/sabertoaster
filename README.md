@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;</>+I'm+Minh+Huy!;You+can+call+me+Saber" />
 </h1>
 
+# About Me
+####👩🏻‍💻 An enthusiast in AI and Neuroscience
 
-# 👩🏻‍💻 An enthusiast in AI and Neuroscience
+####🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
 
-🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
-
-🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_).
+####🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_).
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=sabertoaster&style=for-the-badge"> </a>
 
