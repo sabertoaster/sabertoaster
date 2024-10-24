@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;</>+I'm+Minh+Huy!;You+can+call+me+Saber" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;</>+Je+suis+Minh+Huy!;You+can+call+me+Saber" />
 </h1>
 
 ## About Me  [^1]
@@ -8,7 +8,7 @@
 
 #### 🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_).
 
-#### 🎧 I'm really into Pop, Funk, Synthwave culture and always dream to be a hobbyist Drummer.
+#### 🎧 I'm really into Pop, Funk, Synthwave culture and always dream to be a hobbyist Drummer[^2].
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=sabertoaster&style=for-the-badge"> </a>
 
@@ -60,3 +60,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
 [^1]: Open to any DMs/ public discussion about tech, I'm lowkey lonely by myself.
+[^2]: Fun fact: I really like French and wish I can speak fluent one day.
