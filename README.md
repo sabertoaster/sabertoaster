@@ -60,4 +60,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
 [^1]: Open to any DMs/ public discussion about tech, I'm lowkey lonely by myself.
-[^2]: Fun fact: I really like French and wish I can speak fluent one day.
+[^2]: Fun fact: I really like French and wish I can speak fluently one day.
