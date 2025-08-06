@@ -6,7 +6,7 @@
 
 #### 🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
 
-#### 🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_). I have an active journal blog on https://sabertoaster.github.io 
+#### 🎯 My goal is to become **a top tier scientist in Neuroscience** (_Brain-Computer Interface_). I have [an active journal blog](https://sabertoaster.github.io) dedicated to self-learn and note my commentaries on AI, Math, and CompNeuro.
 
 #### 🎧 I'm really into Pop, Funk, Synthwave culture and always dream to be a hobbyist Drummer[^2].
 
